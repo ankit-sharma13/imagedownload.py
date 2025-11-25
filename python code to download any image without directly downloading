@@ -1,0 +1,3 @@
+from urllib.request import urlretrieve
+image_url="https://imgd-ct.aeplcdn.com/664x415/ec/79/85/9802/img/ol/Lamborghini-Aventador-Left-Front-Three-Quarter-52647.jpg?v=201711021421&q=80"
+urlretrieve(image_url,"car2.jpg")
